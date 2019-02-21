@@ -1,0 +1,1 @@
+<?php $route["about-us"] = "pages/detail/1";  ?>
