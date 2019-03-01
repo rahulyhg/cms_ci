@@ -109,4 +109,4 @@
 	
 	<script src="<?php echo JS_BASE_URL; ?>/functionGlobal.js" type="text/javascript"></script> 
 </body>
-</html	
+</html>	
